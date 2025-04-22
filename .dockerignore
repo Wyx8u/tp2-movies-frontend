@@ -26,4 +26,8 @@ dist-ssr
 # Environment file
 .env
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> ce8caf874fa3b883b0afe2fadd11a04c7c159222
 Dockerfile
